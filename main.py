@@ -18,4 +18,4 @@ for letter in question_split:
 		if letter == key:
 			morse_response.append(value)
 
-print(morse_respons
+print(morse_response)
